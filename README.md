@@ -1,4 +1,4 @@
-# Rejuvenecimento de Software - Metodologia Científica 2020/1
+# Rejuvenescimento de Software - Metodologia Científica 2020/1
 
 ## Objetivo da Pesquisa
 
@@ -6,7 +6,7 @@ A pesquisa tem o intuito de gerar uma teoria fundamentada sobre rejuvenescimento
 
 ## Resultados Alcançados
 
-Até o momento, nenhum dos dados foram analisados realmente, pois não conseguimos bater a meta pre-estabelecida de entrevistas que planejamos inícialmente. As entrevistas foram realizadas por desenvolvedores de ambientes corporativos, não conseguimos entrevistar nenhum desenvolvedor de sofware aberto sem nenhum vínculo corporativo até o presente momento.
+Até o momento, nenhum dos dados foram analisados realmente, pois não conseguimos bater a meta pré-estabelecida de entrevistas que planejamos inicialmente. As entrevistas foram realizadas por desenvolvedores de ambientes corporativos, não conseguimos entrevistar nenhum desenvolvedor de software aberto sem nenhum vínculo corporativo até o presente momento.
 
 ### Impressões Iniciais
 
@@ -16,3 +16,6 @@ Conforme as entrevistas foram realizadas, percebemos que a evolução do softwar
 
 O grupo teve grandes dificuldades em obter respostas através da estratégia de convites para entrevistas, o que resultou em uma quantidade pequena de entrevistados até o momento.
 Tal realidade levou a equipe a discutir mudanças e estratégias para amenizar tal problema. Foi decidido que além dos e-mails enviados para desenvolvedores encontrados em fóruns, listas de discussões, colaboradores do GitHub e StackOverFlow, também seria utilizada a estratégia de snowball. Tais mudanças resultaram em uma perspectiva de um maior número de entrevistas, nas próximas semanas.
+
+## Referências
+GLASER, Barney G.; STRAUSS, Anselm L. **Discovery of Grounded Theory: Strategies for Qualitative Research**. Routledge, 2017.
