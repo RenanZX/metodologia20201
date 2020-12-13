@@ -1,5 +1,14 @@
 # Rejuvenescimento de Software - Metodologia Científica 2020/1
 
+## Integrantes:
+
+- Eduardo de Azevedo dos Santos, 14/0136967
+- Renan Godoi de Medeiros, 15/0146612
+- Vitor Moraes Dellamora, 16/0056802
+- Luan Mendes Gonçalves Freitas, 15/0015585
+- Késsia Silva
+- Walter Lucas, 19/0144688
+
 ## Objetivo da Pesquisa
 
 A pesquisa tem o intuito de gerar uma teoria fundamentada sobre rejuvenescimento de software a partir da evolução das linguagens e segue a metodologia Grounded Theory Descrita por (GLASER e STRAUSS, 2017). Possui um planejamento de execução definido onde foi realizado um projeto piloto para validar o roteiro e as questões definidas durante a fase de planejamento da pesquisa. Atualmente está sendo realizada a fase de coleta de dados, com um total de 5 entrevistas com desenvolvedores realizadas até o momento.
@@ -18,4 +27,5 @@ O grupo teve grandes dificuldades em obter respostas através da estratégia de 
 Tal realidade levou a equipe a discutir mudanças e estratégias para amenizar tal problema. Foi decidido que além dos e-mails enviados para desenvolvedores encontrados em fóruns, listas de discussões, colaboradores do GitHub e StackOverFlow, também seria utilizada a estratégia de snowball. Tais mudanças resultaram em uma perspectiva de um maior número de entrevistas, nas próximas semanas.
 
 ## Referências
+
 GLASER, Barney G.; STRAUSS, Anselm L. **Discovery of Grounded Theory: Strategies for Qualitative Research**. Routledge, 2017.
